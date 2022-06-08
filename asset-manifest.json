@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/disney-clone/static/css/main.171dc29c.css",
+    "main.js": "/disney-clone/static/js/main.01ca4053.js",
+    "static/js/787.dc22f022.chunk.js": "/disney-clone/static/js/787.dc22f022.chunk.js",
+    "static/media/login-background.jpg": "/disney-clone/static/media/login-background.05b1a1b3088cbb458939.jpg",
+    "static/media/cta-logo-one.svg": "/disney-clone/static/media/cta-logo-one.1e2a5ccbbcbea0879d03e030e1e295ff.svg",
+    "index.html": "/disney-clone/index.html",
+    "main.171dc29c.css.map": "/disney-clone/static/css/main.171dc29c.css.map",
+    "main.01ca4053.js.map": "/disney-clone/static/js/main.01ca4053.js.map",
+    "787.dc22f022.chunk.js.map": "/disney-clone/static/js/787.dc22f022.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.171dc29c.css",
+    "static/js/main.01ca4053.js"
+  ]
+}
